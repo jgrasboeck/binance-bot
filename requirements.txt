@@ -1,0 +1,6 @@
+python-binance==1.0.17
+pandas==2.2.2
+ta==0.10.2
+matplotlib==3.8.4
+PyQt5==5.15.10
+pyqt5-tools==5.15.9.3.3
